@@ -2,5 +2,5 @@
 	<string name="app_name">Refactor CS USU</string>
 	<string name="hola_sikomers">Hola, SIKOMERS!</string>
 	<string name="random_the_question_to_find_the_topic">Random the question to find the topic!</string>
-	<string name="random">Random</string>
+	<string name="random">Get Question</string>
 </resources>
